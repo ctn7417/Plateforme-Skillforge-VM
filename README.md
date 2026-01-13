@@ -19,8 +19,6 @@ Créer un MVP permettant :
 
 ## Contenu du dépôt
 
-- `docs/mvp-cadrage.md` : cadrage MVP (objectifs, priorités, extension labs)
-- `docs/backlog-priorise.md` : backlog priorisé (P0/P1/P2)
 - `docs/requirements.md` : besoins fonctionnels et rôles
 - `docs/roadmap.md` : étapes et livrables du MVP
 - `docs/iis-setup.md` : guide de déploiement IIS (VM Windows)
