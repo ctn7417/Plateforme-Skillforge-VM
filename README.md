@@ -25,7 +25,7 @@ Créer un MVP permettant :
 
 ## Prochaines étapes proposées
 
-1. Valider les fonctionnalités MVP (cours, paiement, vidéo, progression).
+1. Valider les fonctionnalités MVP (parcours, quiz, certificats, suivi).
 2. Initialiser la solution (`dotnet new sln` + API + UI).
 3. Définir le modèle de données et le schéma SQL.
 4. Mettre en place l'authentification et les rôles.
