@@ -22,6 +22,7 @@ Créer un MVP permettant :
 - `docs/requirements.md` : besoins fonctionnels et rôles
 - `docs/roadmap.md` : étapes et livrables du MVP
 - `docs/iis-setup.md` : guide de déploiement IIS (VM Windows)
+- `docs/definition-done-par-lot.md` : définition de “Done” par lot/version et KPI
 
 ## Prochaines étapes proposées
 
